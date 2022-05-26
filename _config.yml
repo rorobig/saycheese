@@ -2,7 +2,6 @@
 baseurl: "https://rorobig.github.io/saycheese/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-229153844-1" 
 
 
 
@@ -16,8 +15,6 @@ header:
  subtitle: "by Rocheandley Kwidama"
 footer:
  name: "Anyong haseyo, my name is Roro"
- bio: "I'm  an engineer and a tech aficionado from Curaçao. Love everything platform and cybersecurity related and solving intricate problems in life and now learning photography."
- github: "https://www.github.com/rorobig"
 web_design: "rk"
 social_urls:
   facebook: "https://www.facebook.com/rocheandley.kwidama"
